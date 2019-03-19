@@ -5,6 +5,7 @@ import java.util.ArrayList;
 
 public class MainFiguras {
 
+
     public static void main(String[] args) {
 
         ArrayList<FiguraGeometrica> figuras = new ArrayList();
@@ -39,4 +40,6 @@ public class MainFiguras {
         }
 
     }
+
+
 }
